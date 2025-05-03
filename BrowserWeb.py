@@ -1,6 +1,5 @@
 # Software Name: Web Browser
 # Author: Luca Bocaletto
-# Website: https://www.elektronoide.it
 
 import sys
 from PyQt5.QtCore import *
