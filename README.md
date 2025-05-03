@@ -1,5 +1,9 @@
 # Web Browser
 
+**Author:** Bocaletto Luca
+
+**Language:** Python
+
 A simple web browser application built using Python and PyQt5.
 
 ## Features
@@ -43,41 +47,6 @@ A simple web browser application built using Python and PyQt5.
 
 - **Home Button:** By clicking the home button, you will return to the home page, which is set as DuckDuckGo by default.
 
-## Author
-
-- **Luca Bocaletto**
-- **Website:** [elektronoide.it](https://www.elektronoide.it)
-
 ## License
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
-
-# Browser Web
-
-Un'applicazione semplice di browser web realizzata utilizzando Python e PyQt5.
-
-## Funzionalità
-
-- Naviga su siti web inserendo URL o query di ricerca.
-- Navigazione avanti e indietro.
-- Ricarica la pagina corrente.
-- Imposta DuckDuckGo come pagina iniziale.
-- Impostazioni avanzate di sicurezza e privacy per disabilitare JavaScript e bloccare le risorse di terze parti.
-
-## Installazione
-
-1. Clona il repository:
-
-   ```bash
-   git clone https://github.com/elektronoide/browser-web.git
-   ```
-
-## Utilizzo
-
-- **Inserisci un URL del sito web o una query di ricerca:** Nella barra degli indirizzi, puoi inserire l'URL di un sito web o una query di ricerca e premere Invio per navigare alla pagina desiderata.
-
-- **Pulsanti di navigazione:** Usa i pulsanti indietro e avanti per muoverti nella cronologia di navigazione e rivedere le pagine visitate in precedenza.
-
-- **Pulsante di ricarica:** Clicca sul pulsante di ricarica per aggiornare la pagina corrente e ottenere i contenuti più recenti.
-
-- **Pulsante Home:** Cliccando sul pulsante Home, tornerai alla pagina iniziale, impostata come DuckDuckGo per impostazione predefinita.
