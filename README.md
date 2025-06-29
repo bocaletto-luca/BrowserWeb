@@ -50,3 +50,13 @@ A simple web browser application built using Python and PyQt5.
 ## License
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
